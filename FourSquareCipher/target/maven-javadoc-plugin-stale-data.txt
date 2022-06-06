@@ -1,0 +1,62 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/borys/OneDrive/Pulpit/Four-Square-Cipher/FourSquareCipher/target/classes;C:/Users/borys/OneDrive/Pulpit/Four-Square-Cipher/FourSquareCipher/target/test-classes;C:/Users/borys/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar;C:/Users/borys/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar;C:/Users/borys/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/borys/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar;C:/Users/borys/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar;C:/Users/borys/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar;C:/Users/borys/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'11'
+-sourcepath
+'C:/Users/borys/OneDrive/Pulpit/Four-Square-Cipher/FourSquareCipher/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/borys/OneDrive/Pulpit/Four-Square-Cipher/FourSquareCipher/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FourSquareCipher 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/borys/OneDrive/Pulpit/Four-Square-Cipher/FourSquareCipher/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'FourSquareCipher 1.0-SNAPSHOT Test API'
+pl.polsl.java.cipher.tests
+'C:/Users/borys/OneDrive/Pulpit/Four-Square-Cipher/FourSquareCipher/src/test/java/pl/polsl/java/cipher/tests/FourSquareCipherModelTest.java'
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\classes = 1654503704781
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\test-classes = 1654503704781
+C:\Users\borys\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar = 1635978264820
+C:\Users\borys\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar = 1635978264843
+C:\Users\borys\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1635978264844
+C:\Users\borys\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar = 1635978265259
+C:\Users\borys\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar = 1635978265320
+C:\Users\borys\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar = 1635978265273
+C:\Users\borys\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar = 1635978265272
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\src\test\java = 1637220463364
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\allclasses-index.html = 1654503902467
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\allclasses.html = 1654503902476
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\allpackages-index.html = 1654503902470
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\constant-values.html = 1654503902422
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\deprecated-list.html = 1654503902474
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\element-list = 1654503902408
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\help-doc.html = 1654503902482
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\index-all.html = 1654503902461
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\index.html = 1654503902478
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\member-search-index.js = 1654503902458
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\member-search-index.zip = 1654503902459
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\overview-tree.html = 1654503902439
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\package-search-index.js = 1654503902452
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\package-search-index.zip = 1654503902455
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\script.js = 1654503902486
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\search.js = 1654503902488
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\stylesheet.css = 1654503902485
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\type-search-index.js = 1654503902456
+C:\Users\borys\OneDrive\Pulpit\Four-Square-Cipher\FourSquareCipher\target\site\testapidocs\type-search-index.zip = 1654503902457
